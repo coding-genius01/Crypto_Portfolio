@@ -11,7 +11,7 @@
 ◉ Delete Coins: Remove coins from your portfolio.
 
 ## Prerequisites
-### Python: You will need the Python source code and required libraries (tkinter, requests and json).
+### Python: You will need the Python source code and required libraries (tkinter, requests, sqlite3 and json).
 ### Internet Connection: Required for fetching real-time coin data.
 
 ## Usage
