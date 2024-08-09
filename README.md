@@ -48,5 +48,5 @@ The application will update and display the current value, profit/loss per coin,
 The application fetches real-time coin prices using an external API. Ensure you have an active internet connection to retrieve the latest data. If you need to change the API endpoint or add support for other coins, you would need to modify the source code and recompile the executable.
 
 ## Troubleshooting
-No Data Displayed: Ensure you have a stable internet connection. There is a monthly request limit of 10000.
+No Data Displayed: Ensure you have a stable internet connection. There is an api-request limit of 10,000 per month.
 Issues Adding/Updating Coins: Verify that all input fields are filled out correctly and the coin symbol is valid.
